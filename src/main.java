@@ -6,7 +6,7 @@ public class main {
         long d = 140000;
         float i = (float) 15.10;
         double f = -20.132;
-        char g = '*';
+        char l = '*';
         boolean h = true;
 
         System.out.println(sum(i,i,i,i));
@@ -44,3 +44,4 @@ public class main {
         System.out.println("Привет, " + a + "!");
     }
 }
+
