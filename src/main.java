@@ -19,7 +19,7 @@ public class main {
 
         float f = numb[0]*(numb[1]+(numb[2]/numb[3]));
         return(f);
-
+ddd
     };
     public static boolean aaa(Integer...a) {
 
